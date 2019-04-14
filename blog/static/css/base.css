@@ -1,0 +1,26 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+header {
+  border-bottom: 1px solid #999;
+  display: flex;
+  margin: 10px;
+}
+
+header, h1, a {
+  text-decoration: none;
+  color: black;
+}
+
+.post-entry{
+  margin: 20px;
+}
+
+.post-entry a:hover{
+  color: green;
+}
+
+.post-entry p{
+  font-size: 14px;
+}
